@@ -17,6 +17,17 @@ header {
   filter: brightness(0.6);
 }
 
+.contacto {
+  color: blueviolet;
+}
+
+.video {
+  background-color: blueviolet;
+}
+.video h4 {
+  color: whitesmoke;
+}
+
 /*FOOTER INICIO*/
 footer {
   background-color: #3d3350;

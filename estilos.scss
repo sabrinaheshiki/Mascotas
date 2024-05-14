@@ -28,7 +28,17 @@ header {
     filter: brightness(0.6);
 }
     
+.contacto{
+    color: $color-primary;
+}
 
+
+.video{
+    background-color: $color-primary;
+    h4{
+        color: $color-font;
+    }
+}    
 
 /*FOOTER INICIO*/
 footer {
